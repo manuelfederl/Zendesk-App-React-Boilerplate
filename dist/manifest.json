@@ -1,17 +1,18 @@
 {
   "name": "Zendesk React App Boilerplate",
   "author": {
-    "name": "Cloudhuset",
-    "email": "info@cloudhuset.dk",
-    "url": "https://cloudhuset.dk"
+    "name": "Manuel Federl",
+    "email": "federl.manuel@gmail.com",
+    "url": ""
   },
   "defaultLocale": "en",
   "private": true,
   "location": {
     "support": {
+      "new_ticket_sidebar": "assets/index.html",
       "ticket_sidebar": "assets/index.html"
     }
   },
-  "version": "1.0",
-  "frameworkVersion": "2.0"
+  "version": "0.1.0",
+  "frameworkVersion": "1.0"
 }

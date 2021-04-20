@@ -1,4 +1,4 @@
-# Boilerplate for Zendesk App Framework v2 using React
+# Internal Boilerplate for Zendesk App Framework v2 using ReactJS
 
 ## Includes
 
@@ -10,9 +10,9 @@
 * Jest
 * zafClient
 
-## How to use it
+## Contributors
 
-Start by cloning this repository with `git clone https://github.com/Cloudhuset/Zendesk-React-App-Boilerplate.git`
+Cloudhuset - https://github.com/Cloudhuset - Base Boilerplate
 
 ### Commands
 
