@@ -2,17 +2,12 @@
   * Node Module Imports
 **/
 import React, { useEffect } from 'react'
-import zafClient from '../../zafClient'
+import zafClient from '../zafClient'
 
 /**
   * Component Imports
 **/
-import Footer from '../Footer'
-
-/**
-  * Asset Imports
-**/
-// NO ASSETS
+import Footer from './Footer'
 
 /**
   * The base functional component for ReactJS which contains all child components.
@@ -33,7 +28,7 @@ const App = () => {
 
   return (
     <div className="App">
-      <p className="user-name">{userName ? `Hi ${userName}!` : "Hmm... You don't have a name?"}</p>
+      <p>{userName ? `Hi ${userName}!` : "Hmm... You don't have a name?"}</p>
       <Footer />
     </div>
   )

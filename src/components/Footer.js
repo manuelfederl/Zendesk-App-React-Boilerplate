@@ -2,17 +2,13 @@
   * Node Module Imports
 **/
 import React from 'react'
-import zafClient from '../../zafClient'
+import zafClient from '../zafClient'
 
 /**
   * Component Imports
 **/
 import { Anchor } from '@zendeskgarden/react-buttons'
 
-/**
-  * Asset Imports
-**/
-// NO ASSETS
 
 /**
   * The functional React component for creating the HTML Footer element

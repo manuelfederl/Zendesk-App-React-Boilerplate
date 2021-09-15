@@ -10,7 +10,12 @@
   "location": {
     "support": {
       "new_ticket_sidebar": "assets/index.html",
-      "ticket_sidebar": "assets/index.html"
+      "ticket_sidebar": "assets/index.html",
+      "user_sidebar": "assets/index.html",
+      "nav_sidebar": "assets/index.html",
+      "top_bar": "assets/index.html",
+      "organization_sidebar": "assets/index.html",
+      "ticket_editor": "assets/index.html"
     }
   },
   "version": "0.1.0",
